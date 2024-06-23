@@ -12,8 +12,10 @@ struct ContentView: View {
         VStack {
             Image(systemName: "heart.fill")
                 .imageScale(.large)
+                .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Hello, world bu jeeva")
+            Text("Hello, world!")
+                .padding(.top, 3)
         }
         .font(.system(size: 19, weight: .semibold, design: .monospaced))
         .padding()
