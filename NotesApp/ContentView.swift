@@ -19,6 +19,7 @@ struct ContentView: View {
         }
         .font(.system(size: 19, weight: .semibold, design: .monospaced))
         .padding()
+        .padding(.horizontal)
     }
 }
 
