@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .font(.largeTitle)
                 .foregroundStyle(.pink)
-            Text("Hello, world by Jeeva!")
+            Text("Hello, world!")
                 .padding(.top, 3)
         }
         .font(.system(size: 19, weight: .semibold, design: .monospaced))
