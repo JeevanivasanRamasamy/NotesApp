@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Rebase Concepts")
                 .foregroundStyle(.primary)
                 .padding(.top, 5)
-            Text("Changes done from the main branch. V3 update.")
+            Text("Changes done from the main branch. V1 update.")
                 .foregroundStyle(.secondary)
                 .padding(.top, 2)
         }
