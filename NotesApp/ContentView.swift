@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Hello, World...")
                 .foregroundStyle(.primary)
                 .padding(.top, 5)
-            Text("Changes done from the main branch.")
+            Text("Changes done from the main branch. V2 update.")
                 .foregroundStyle(.secondary)
                 .padding(.top, 2)
         }
