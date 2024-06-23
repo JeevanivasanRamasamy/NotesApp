@@ -11,7 +11,6 @@
 		CD838CF62C274CAF005EABF2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD838CF52C274CAF005EABF2 /* ContentView.swift */; };
 		CD838CF82C274CB1005EABF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD838CF72C274CB1005EABF2 /* Assets.xcassets */; };
 		CD838CFB2C274CB1005EABF2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD838CFA2C274CB1005EABF2 /* Preview Assets.xcassets */; };
-		CD838D022C284ED0005EABF2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD838D012C284ED0005EABF2 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		CD838CF52C274CAF005EABF2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD838CF72C274CB1005EABF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD838CFA2C274CB1005EABF2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		CD838D012C284ED0005EABF2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +54,6 @@
 				CD838CF32C274CAF005EABF2 /* NotesAppApp.swift */,
 				CD838CF52C274CAF005EABF2 /* ContentView.swift */,
 				CD838CF72C274CB1005EABF2 /* Assets.xcassets */,
-				CD838D012C284ED0005EABF2 /* HomeView.swift */,
 				CD838CF92C274CB1005EABF2 /* Preview Content */,
 			);
 			path = NotesApp;
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD838D022C284ED0005EABF2 /* HomeView.swift in Sources */,
 				CD838CF62C274CAF005EABF2 /* ContentView.swift in Sources */,
 				CD838CF42C274CAF005EABF2 /* NotesAppApp.swift in Sources */,
 			);
