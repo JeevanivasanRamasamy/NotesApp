@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world bu jeeva")
         }
-        .padding()
+        .font(.system(size: 19, weight: .semibold, design: .monospaced))
         .padding()
     }
 }
