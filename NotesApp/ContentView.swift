@@ -14,9 +14,15 @@ struct ContentView: View {
                 .imageScale(.large)
                 .font(.largeTitle)
                 .foregroundStyle(.green)
-            Text("Hello, World..")
-                .padding(.top, 3)
+            Text("Hello, World...")
+                .foregroundStyle(.primary)
+                .padding(.top, 5)
+            Text("Changes done from the test_branch")
+                .foregroundStyle(.secondary)
+                .padding(.top, 2)
         }
+        .multilineTextAlignment(.center)
+        .padding()
         .font(.system(size: 19, weight: .semibold, design: .monospaced))
     }
 }
